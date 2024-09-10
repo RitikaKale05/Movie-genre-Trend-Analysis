@@ -1,13 +1,11 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/QM6TDYML)
 
 Team Members:
-
+Ritika Sanjay Kale
 Dimple Singh
 Jay Balaram Sankhe
 Debangana Ghosh
 Jeremy Anton
-Ritika Sanjay Kale
-
 
 Introduction: This project explores the potential of social media data in identifying and analyzing trends within the movie industry, specifically focusing on popular movies, TV shows, and genres. By analyzing posts and comments related to movies and TV shows on platforms like Reddit and The Movie Database (TMDb), we aim to uncover insights into audience preferences and emerging trends.
 Reddit and TMDb, two widely used platforms, generate vast amounts of text data through posts and comments. To achieve our objectives, we employed APIs from Reddit and TMDb to collect posts associated with relevant subreddits such as "r/movies" and "r/tv".
